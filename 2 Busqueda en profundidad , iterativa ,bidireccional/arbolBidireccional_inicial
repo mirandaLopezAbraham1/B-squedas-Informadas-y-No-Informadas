@@ -1,0 +1,151 @@
+digraph {
+	<__main__.Nodo object at 0x00000154E6DFDB80> [label="[['UTA', 'A', 'B'], ['C', 'D', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E6E24CA0> [label="[['X', 'A', 'B'], ['UTA', 'D', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E6DFDB80> -> <__main__.Nodo object at 0x00000154E6E24CA0>
+	<__main__.Nodo object at 0x00000154E9460F70> [label="[['X', 'UTA', 'B'], ['C', 'D', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E6DFDB80> -> <__main__.Nodo object at 0x00000154E9460F70>
+	<__main__.Nodo object at 0x00000154E946D070> [label="[['X', 'A', 'B'], ['UTA', 'D', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E6DFDB80> -> <__main__.Nodo object at 0x00000154E946D070>
+	<__main__.Nodo object at 0x00000154E946D1C0> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['UTA', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E6E24CA0> -> <__main__.Nodo object at 0x00000154E946D1C0>
+	<__main__.Nodo object at 0x00000154E946D280> [label="[['X', 'A', 'B'], ['X', 'UTA', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E6E24CA0> -> <__main__.Nodo object at 0x00000154E946D280>
+	<__main__.Nodo object at 0x00000154E946D340> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['UTA', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E6E24CA0> -> <__main__.Nodo object at 0x00000154E946D340>
+	<__main__.Nodo object at 0x00000154E9460F10> [label="[['X', 'X', 'B'], ['C', 'UTA', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9460F70> -> <__main__.Nodo object at 0x00000154E9460F10>
+	<__main__.Nodo object at 0x00000154E946D520> [label="[['X', 'X', 'UTA'], ['C', 'D', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9460F70> -> <__main__.Nodo object at 0x00000154E946D520>
+	<__main__.Nodo object at 0x00000154E946D0D0> [label="[['X', 'X', 'B'], ['C', 'UTA', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9460F70> -> <__main__.Nodo object at 0x00000154E946D0D0>
+	<__main__.Nodo object at 0x00000154E946D400> [label="[['X', 'A', 'B'], ['X', 'UTA', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D070> -> <__main__.Nodo object at 0x00000154E946D400>
+	<__main__.Nodo object at 0x00000154E946D670> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'G', 'H'], ['UTA', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D1C0> -> <__main__.Nodo object at 0x00000154E946D670>
+	<__main__.Nodo object at 0x00000154E946D730> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'UTA', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D1C0> -> <__main__.Nodo object at 0x00000154E946D730>
+	<__main__.Nodo object at 0x00000154E946D790> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'G', 'H'], ['UTA', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D1C0> -> <__main__.Nodo object at 0x00000154E946D790>
+	<__main__.Nodo object at 0x00000154E946D8B0> [label="[['X', 'UTA', 'B'], ['X', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D280> -> <__main__.Nodo object at 0x00000154E946D8B0>
+	<__main__.Nodo object at 0x00000154E946D9D0> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['F', 'UTA', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D280> -> <__main__.Nodo object at 0x00000154E946D9D0>
+	<__main__.Nodo object at 0x00000154E946DAF0> [label="[['X', 'A', 'B'], ['X', 'X', 'UTA'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D280> -> <__main__.Nodo object at 0x00000154E946DAF0>
+	<__main__.Nodo object at 0x00000154E946D850> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'UTA', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D340> -> <__main__.Nodo object at 0x00000154E946D850>
+	<__main__.Nodo object at 0x00000154E946DC70> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['F', 'UTA', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9460F10> -> <__main__.Nodo object at 0x00000154E946DC70>
+	<__main__.Nodo object at 0x00000154E946DD30> [label="[['X', 'X', 'B'], ['C', 'X', 'UTA'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9460F10> -> <__main__.Nodo object at 0x00000154E946DD30>
+	<__main__.Nodo object at 0x00000154E946DDF0> [label="[['X', 'X', 'B'], ['UTA', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9460F10> -> <__main__.Nodo object at 0x00000154E946DDF0>
+	<__main__.Nodo object at 0x00000154E9475070> [label="[['X', 'X', 'X'], ['C', 'D', 'UTA'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D520> -> <__main__.Nodo object at 0x00000154E9475070>
+	<__main__.Nodo object at 0x00000154E94750D0> [label="[['X', 'X', 'X'], ['C', 'D', 'UTA'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D520> -> <__main__.Nodo object at 0x00000154E94750D0>
+	<__main__.Nodo object at 0x00000154E946DE50> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['F', 'UTA', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D0D0> -> <__main__.Nodo object at 0x00000154E946DE50>
+	<__main__.Nodo object at 0x00000154E946DF10> [label="[['X', 'X', 'B'], ['C', 'X', 'UTA'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D0D0> -> <__main__.Nodo object at 0x00000154E946DF10>
+	<__main__.Nodo object at 0x00000154E946DFD0> [label="[['X', 'X', 'B'], ['UTA', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D0D0> -> <__main__.Nodo object at 0x00000154E946DFD0>
+	<__main__.Nodo object at 0x00000154E946D910> [label="[['X', 'UTA', 'B'], ['X', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D400> -> <__main__.Nodo object at 0x00000154E946D910>
+	<__main__.Nodo object at 0x00000154E946DA30> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['F', 'UTA', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D400> -> <__main__.Nodo object at 0x00000154E946DA30>
+	<__main__.Nodo object at 0x00000154E946DB50> [label="[['X', 'A', 'B'], ['X', 'X', 'UTA'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D400> -> <__main__.Nodo object at 0x00000154E946DB50>
+	<__main__.Nodo object at 0x00000154E9475160> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'G', 'H'], ['X', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D670> -> <__main__.Nodo object at 0x00000154E9475160>
+	<__main__.Nodo object at 0x00000154E94751C0> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'G', 'H'], ['X', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D670> -> <__main__.Nodo object at 0x00000154E94751C0>
+	<__main__.Nodo object at 0x00000154E9475220> [label="[['X', 'A', 'B'], ['X', 'UTA', 'E'], ['X', 'X', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D730> -> <__main__.Nodo object at 0x00000154E9475220>
+	<__main__.Nodo object at 0x00000154E9475340> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'X', 'H'], ['I', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D730> -> <__main__.Nodo object at 0x00000154E9475340>
+	<__main__.Nodo object at 0x00000154E9475460> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'X', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D730> -> <__main__.Nodo object at 0x00000154E9475460>
+	<__main__.Nodo object at 0x00000154E94755E0> [label="[['X', 'X', 'UTA'], ['X', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D8B0> -> <__main__.Nodo object at 0x00000154E94755E0>
+	<__main__.Nodo object at 0x00000154E94756A0> [label="[['X', 'X', 'UTA'], ['X', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D8B0> -> <__main__.Nodo object at 0x00000154E94756A0>
+	<__main__.Nodo object at 0x00000154E9475760> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['F', 'X', 'H'], ['I', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D9D0> -> <__main__.Nodo object at 0x00000154E9475760>
+	<__main__.Nodo object at 0x00000154E9475880> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['F', 'X', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D9D0> -> <__main__.Nodo object at 0x00000154E9475880>
+	<__main__.Nodo object at 0x00000154E94759A0> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['UTA', 'X', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D9D0> -> <__main__.Nodo object at 0x00000154E94759A0>
+	<__main__.Nodo object at 0x00000154E9475B20> [label="[['X', 'A', 'UTA'], ['X', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DAF0> -> <__main__.Nodo object at 0x00000154E9475B20>
+	<__main__.Nodo object at 0x00000154E9475C40> [label="[['X', 'A', 'B'], ['X', 'X', 'X'], ['F', 'G', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DAF0> -> <__main__.Nodo object at 0x00000154E9475C40>
+	<__main__.Nodo object at 0x00000154E9475D00> [label="[['X', 'A', 'UTA'], ['X', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DAF0> -> <__main__.Nodo object at 0x00000154E9475D00>
+	<__main__.Nodo object at 0x00000154E9475280> [label="[['X', 'A', 'B'], ['X', 'UTA', 'E'], ['X', 'X', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D850> -> <__main__.Nodo object at 0x00000154E9475280>
+	<__main__.Nodo object at 0x00000154E94753A0> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'X', 'H'], ['I', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D850> -> <__main__.Nodo object at 0x00000154E94753A0>
+	<__main__.Nodo object at 0x00000154E94754C0> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'X', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D850> -> <__main__.Nodo object at 0x00000154E94754C0>
+	<__main__.Nodo object at 0x00000154E9475E20> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['F', 'X', 'H'], ['I', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DC70> -> <__main__.Nodo object at 0x00000154E9475E20>
+	<__main__.Nodo object at 0x00000154E9475F40> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['F', 'X', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DC70> -> <__main__.Nodo object at 0x00000154E9475F40>
+	<__main__.Nodo object at 0x00000154E947C0A0> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['UTA', 'X', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DC70> -> <__main__.Nodo object at 0x00000154E947C0A0>
+	<__main__.Nodo object at 0x00000154E947C220> [label="[['X', 'X', 'UTA'], ['C', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DD30> -> <__main__.Nodo object at 0x00000154E947C220>
+	<__main__.Nodo object at 0x00000154E947C340> [label="[['X', 'X', 'B'], ['C', 'X', 'X'], ['F', 'G', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DD30> -> <__main__.Nodo object at 0x00000154E947C340>
+	<__main__.Nodo object at 0x00000154E947C400> [label="[['X', 'X', 'UTA'], ['C', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DD30> -> <__main__.Nodo object at 0x00000154E947C400>
+	<__main__.Nodo object at 0x00000154E947C520> [label="[['X', 'X', 'B'], ['X', 'X', 'E'], ['UTA', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DDF0> -> <__main__.Nodo object at 0x00000154E947C520>
+	<__main__.Nodo object at 0x00000154E947C5E0> [label="[['X', 'X', 'B'], ['X', 'X', 'E'], ['UTA', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DDF0> -> <__main__.Nodo object at 0x00000154E947C5E0>
+	<__main__.Nodo object at 0x00000154E947C6A0> [label="[['X', 'X', 'X'], ['C', 'D', 'X'], ['F', 'G', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9475070> -> <__main__.Nodo object at 0x00000154E947C6A0>
+	<__main__.Nodo object at 0x00000154E947C760> [label="[['X', 'X', 'X'], ['C', 'UTA', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9475070> -> <__main__.Nodo object at 0x00000154E947C760>
+	<__main__.Nodo object at 0x00000154E947C7C0> [label="[['X', 'X', 'X'], ['C', 'D', 'X'], ['F', 'G', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9475070> -> <__main__.Nodo object at 0x00000154E947C7C0>
+	<__main__.Nodo object at 0x00000154E947C880> [label="[['X', 'X', 'X'], ['C', 'UTA', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E94750D0> -> <__main__.Nodo object at 0x00000154E947C880>
+	<__main__.Nodo object at 0x00000154E9475E80> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['F', 'X', 'H'], ['I', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DE50> -> <__main__.Nodo object at 0x00000154E9475E80>
+	<__main__.Nodo object at 0x00000154E9475FA0> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['F', 'X', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DE50> -> <__main__.Nodo object at 0x00000154E9475FA0>
+	<__main__.Nodo object at 0x00000154E947C100> [label="[['X', 'X', 'B'], ['C', 'X', 'E'], ['UTA', 'X', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DE50> -> <__main__.Nodo object at 0x00000154E947C100>
+	<__main__.Nodo object at 0x00000154E947C280> [label="[['X', 'X', 'UTA'], ['C', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DF10> -> <__main__.Nodo object at 0x00000154E947C280>
+	<__main__.Nodo object at 0x00000154E947C3A0> [label="[['X', 'X', 'B'], ['C', 'X', 'X'], ['F', 'G', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DF10> -> <__main__.Nodo object at 0x00000154E947C3A0>
+	<__main__.Nodo object at 0x00000154E947C460> [label="[['X', 'X', 'UTA'], ['C', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DF10> -> <__main__.Nodo object at 0x00000154E947C460>
+	<__main__.Nodo object at 0x00000154E947C580> [label="[['X', 'X', 'B'], ['X', 'X', 'E'], ['UTA', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DFD0> -> <__main__.Nodo object at 0x00000154E947C580>
+	<__main__.Nodo object at 0x00000154E947C640> [label="[['X', 'X', 'B'], ['X', 'X', 'E'], ['UTA', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DFD0> -> <__main__.Nodo object at 0x00000154E947C640>
+	<__main__.Nodo object at 0x00000154E9475640> [label="[['X', 'X', 'UTA'], ['X', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D910> -> <__main__.Nodo object at 0x00000154E9475640>
+	<__main__.Nodo object at 0x00000154E9475700> [label="[['X', 'X', 'UTA'], ['X', 'X', 'E'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946D910> -> <__main__.Nodo object at 0x00000154E9475700>
+	<__main__.Nodo object at 0x00000154E94757C0> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['F', 'X', 'H'], ['I', 'UTA', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DA30> -> <__main__.Nodo object at 0x00000154E94757C0>
+	<__main__.Nodo object at 0x00000154E94758E0> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['F', 'X', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DA30> -> <__main__.Nodo object at 0x00000154E94758E0>
+	<__main__.Nodo object at 0x00000154E9475A00> [label="[['X', 'A', 'B'], ['X', 'X', 'E'], ['UTA', 'X', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DA30> -> <__main__.Nodo object at 0x00000154E9475A00>
+	<__main__.Nodo object at 0x00000154E9475B80> [label="[['X', 'A', 'UTA'], ['X', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DB50> -> <__main__.Nodo object at 0x00000154E9475B80>
+	<__main__.Nodo object at 0x00000154E9475CA0> [label="[['X', 'A', 'B'], ['X', 'X', 'X'], ['F', 'G', 'UTA'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DB50> -> <__main__.Nodo object at 0x00000154E9475CA0>
+	<__main__.Nodo object at 0x00000154E9475D60> [label="[['X', 'A', 'UTA'], ['X', 'X', 'X'], ['F', 'G', 'H'], ['I', 'J', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E946DB50> -> <__main__.Nodo object at 0x00000154E9475D60>
+	<__main__.Nodo object at 0x00000154E947C910> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'UTA', 'H'], ['X', 'X', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9475160> -> <__main__.Nodo object at 0x00000154E947C910>
+	<__main__.Nodo object at 0x00000154E947C970> [label="[['X', 'A', 'B'], ['X', 'D', 'E'], ['X', 'UTA', 'H'], ['X', 'X', 'MALL']]"]
+	<__main__.Nodo object at 0x00000154E9475160> -> <__main__.Nodo object at 0x00000154E947C970>
+}
